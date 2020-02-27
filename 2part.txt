@@ -1,0 +1,8 @@
+Archive:  latest.zip
+  inflating: ml-latest/links.csv     
+  inflating: ml-latest/tags.csv      
+  inflating: ml-latest/genome-tags.csv  
+  inflating: ml-latest/ratings.csv   
+  inflating: ml-latest/README.txt    
+  inflating: ml-latest/genome-scores.csv  
+  inflating: ml-latest/movies.csv    
